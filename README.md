@@ -1,4 +1,4 @@
-# EX1-CloudComputing
+# EX1 - Cloud Computing
 #### Submitted By:
 Tal Barak 302281480,
 Bar Ketstenboum 209118413,
