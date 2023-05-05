@@ -1,4 +1,4 @@
 # EX1-CloudComputing
-####Submitted By:
+#### Submitted By:
 Tal Barak, Bar Ketstenboum, Ben Armon
 
